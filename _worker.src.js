@@ -42,7 +42,7 @@ let FileName = 'epeius';
 let BotToken ='';
 let ChatID =''; 
 let proxyhosts = [];//本地代理域名池
-let proxyhostsURL = 'epeius-5os.pages.dev';//在线代理域名池URL
+let proxyhostsURL = 'd772f22e.epeius-5os.pages.dev';//在线代理域名池URL
 let go2Socks5s = [
 	'*ttvnw.net',
 ];
